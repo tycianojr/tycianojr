@@ -13,7 +13,6 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://symbols.getvecta.com/stencil_74/36_apache-spark-icon.79831ad2ea.svg">
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
          
  
